@@ -1,5 +1,5 @@
 <head>
-  <title>Road Accident Severity Predictor</title>
+  <h1>Road Accident Severity Predictor</h1>
 </head>
 <h1>Overview</h1>
 <p>This project is an end-to-end AI-powered system designed to predict the severity of road accidents and provide actionable safety insights. 
