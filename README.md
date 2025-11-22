@@ -1,7 +1,7 @@
 <head>
-#🚗Road Accident Severity Predictor
+<h1>🚗Road Accident Severity Predictor</h1>
 </head>
-<h1>Table of Content</h1>
+<h2>Table of Content</h2>
 <p>
 - [About](#about)
 - [Features](#features)
