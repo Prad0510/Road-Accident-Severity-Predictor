@@ -25,10 +25,10 @@ Technical Features<br>
 <h2>Technology Stack</h2>
 
 <h3>Frontend</h3>
-- **React** 18.2.0 - UI framework<br>
-- **Axios** - HTTP client for API requests<br>
-- **CSS3** - Modern styling with dark theme<br>
-- **JavaScript ES6+** - Modern JavaScript features
+- React 18.2.0 - UI framework<br>
+- Axios - HTTP client for API requests<br>
+- CSS3 - Modern styling with dark theme<br>
+- JavaScript ES6+ - Modern JavaScript features
 
 <h3>Backend</h3>
 - Flask 3.0.0 - Web framework<br>
